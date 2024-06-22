@@ -9,15 +9,20 @@ This repository contains weekly assignments, quizzes, and tasks completed during
    - Python Libraries like Numpy, MatplotLib and Pandas : In-depth understanding and usage in ML fields
    - Basics of Statistics : Variable Types, Distributions and Quantiles
 
-2. **Week 2**: IIntroduction to MAchine Learning
+2. **Week 2**: Introduction to MAchine Learning
    - Introduction to Machine Learning : Types, Uses, Importance and Vision
    - Linear Regression : Along with multi-regression
    - Logistic Regression : As a tool for classification problems
 
 3. **Week 3**: Performance Evaluation
    - Regularisation : Feature Engineering and Concepts in Data PreProcessing
-   - Model Performance : Bias, Variance, Confusion MAtrix, AOC, ROC and Bag of Words
+   - Model Performance : Bias, Variance, Confusion Matrix, AOC, ROC and Bag of Words
    - Support Vector Machines : Tool used in both Regression and Classification Problems
+
+4. **Week 4**: Trees and Boosting
+   - Trees : Decision Trees, Random Forests and K-Nearest Neighbours
+   - Boosting : XGBoost, CatBoost and AdaBoost
+   - Performance Enhancement : Cross Validation, Hyperparameter Tuning and Grid/Random Search
 
 ## Acknowledgments
 Consulting and Analytics Club, IIT Guwahati for conducting the course
