@@ -1,6 +1,10 @@
 # ML_IITG
 
-This repository contains weekly assignments, quizzes, and tasks completed during a 6-week summer course on Machine Learning, conducted by IIT Guwahati.
+In the summer break of 2023-24, I enrolled in [Summer Analytics](https://www.caciitg.com/sa/), a primer course on Data Science and Machine Learning. The course was conducted by the Consulting & Analytics Club, IIT Guwahati in partnership with various industry leaders like Geeks for Geeks, Coding Ninjas, AI Planet, Pathway and Zoho.
+
+This online data science certification course revolved around the concepts of Python, Machine Learning, Data Cleaning and Data Analysis. It aimed at helping students understand core concepts and the latest advancements including aspects of Supervised and Unsupervised machine learning, and introduce the very latest tools and algorithms used in the industry.
+
+This repository contains all of weekly assignments, quizzes, and tasks completed during the 6-week summer course on Machine Learning, conducted by IIT Guwahati.
 
 ## Contents
 
@@ -24,10 +28,12 @@ This repository contains weekly assignments, quizzes, and tasks completed during
    - Boosting : XGBoost, CatBoost and AdaBoost
    - Performance Enhancement : Cross Validation, Hyperparameter Tuning and Grid/Random Search
 
-5. **Week 5**: 
+5. **Week 5**: Neural Networks
+   - Neural Networks : Regression and Classification with Keras
+   - Unsupervised Learning : Concept and Clustering
+   - Deep Learning : An overview and introdunction
 
-## Installations Required
-xgboost, keras, numpy, pandas, matplotlib, seaborn, scikit-learn
+6. **Week 6**: Final Project
 
 ## Some Archived Resources
    - [Machine Learning by Josh Starmer on StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
@@ -41,9 +47,15 @@ xgboost, keras, numpy, pandas, matplotlib, seaborn, scikit-learn
 
 Note that this is not an exhaustive resource list. Even in this course we followed various other standalone videos, medium articles, kaggle blogs and websites. Additionally, we attended various talks, webinars, hands-on activities and hackathons, which together with the final project helped us get a good understanding in the topic (which still might not be sufficient).
 
-On a side note, I have [another repository](https://github.com/avi1o1/PyLibs) dedicated to various pyhon libraries that might come handy in your ML journey.
+On a side note, I have [another repository](https://github.com/avi1o1/PyLibs) dedicated to various python libraries that might come handy in your ML journey.
 
-## Acknowledgments
-Consulting and Analytics Club, IIT Guwahati for conducting the course
+## Installations Required
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- keras
 
 ---
