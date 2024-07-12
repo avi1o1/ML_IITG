@@ -39,6 +39,7 @@ This repository contains all of weekly assignments, quizzes, and tasks completed
    - [Machine Learning by Josh Starmer on StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
    - [Machine Learning Specialisation Course by Andrew NG on DeepLearning.AI](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
    - [Neural Network and Deep Learning Course by Andrew NG on DeepLearning.AI](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
+   - [Kaggle Micro-courses](https://www.kaggle.com/learn)
    - [Neural Networks by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
    - [Towards Data Science Blogs, by Medium](https://towardsdatascience.com)
 
